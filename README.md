@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Magnasin
-- 👀 I’m interested in full stacks
+- 👀 I’m interested in obtaining my first pgrogramming job
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on any projects I can join in to learn / gain experience
-- 📫 How to reach me here
+- 📫 How to reach me? Here, or via linkedin www.linkedin.com/in/abel-deulofeu-783385161
 
 <!---
 Magnasin/Magnasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
